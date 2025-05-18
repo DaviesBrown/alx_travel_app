@@ -1,1 +1,2 @@
-# DJANGO REST API FOR ALX TRAVEL APP
+# alx_travel_app
+
